@@ -1,0 +1,217 @@
+                                  Rakathon 2026
+                            Pravidla a podmínky účasti
+                                      Verze 1.0 – účinná od 23. 6. 2026
+
+1. Základní informace
+Rakathon 2026 je celostátní zdravotnický hackathon zaměřený na hledání, návrh a prototypování inovativních
+řešení pro oblast onkologie, zdravotnictví, dat, technologií a umělé inteligence.
+Akce probíhá v termínu 16.–18. října 2026 v Praze, Brně a Ostravě, případně v dalších místech určených
+pořadatelem. Součástí akce mohou být lokální kola, mentoring, odborný program, workshopy, prezentace týmů,
+porotcovské hodnocení a celonárodní finále.
+Pořadatelem akce je Insane Business Ideas s.r.o., IČO: 24818607, se sídlem Všehrdova 437/15, Malá Strana,
+118 00 Praha 1 (dále jen „pořadatel“). Kontaktní e-mail pořadatele je info@ceehacks.com.
+Registrací na akci účastník potvrzuje, že se seznámil s těmito pravidly a podmínkami, souhlasí s nimi a zavazuje
+se je dodržovat.
+
+2. Registrace, výběr účastníků a týmy
+Akce je určena zejména pro studenty, vývojáře, datové specialisty, designéry, mediky, zdravotníky, výzkumníky,
+inovátory, startupisty a další osoby se zájmem o zdravotnické inovace.
+Odeslání registrace samo o sobě nezakládá právní nárok na účast. Pořadatel si vyhrazuje právo registraci
+přijmout, odmítnout, zařadit na čekací listinu nebo zrušit, zejména z kapacitních, organizačních, bezpečnostních
+nebo odborných důvodů.
+Účastník odpovídá za správnost údajů uvedených v registračním formuláři. Pokud se účastník nemůže akce
+zúčastnit, je povinen o tom pořadatele bez zbytečného odkladu informovat.
+Účastníci mohou soutěžit jako jednotlivci nebo v týmech. Doporučená velikost týmu je 2–4 osoby, pokud
+pořadatel neurčí jinak. Pořadatel může pomoci jednotlivcům s vytvořením týmu, ale negarantuje jeho sestavení.
+Účastníkem může být osoba starší 18 let. Osoby mladší 18 let se mohou účastnit pouze se souhlasem
+zákonného zástupce a za podmínek stanovených pořadatelem.
+
+3. Průběh akce a odevzdání výstupů
+Účastníci pracují během akce na řešeních vztahujících se k vyhlášeným výzvám. Výzvy mohou být připraveny
+pořadatelem, odbornými garanty, nemocnicemi, univerzitami, partnery nebo dalšími institucemi.
+Výstupem týmu může být zejména prototyp, návrh aplikace, datový model, koncept služby, analytický výstup,
+prezentace, dokumentace, demonstrační video, zdrojový kód, návrh workflow, uživatelský scénář nebo jiný
+relevantní výsledek (dále jen „výstup“).
+Pořadatel může určit povinný formát odevzdání, deadline, délku prezentace, technické požadavky a způsob
+hodnocení. Nedodržení těchto pravidel může vést k vyřazení týmu z hodnocení.
+
+4. Zdravotnický charakter akce a práce s daty
+Účastníci berou na vědomí, že výstupy vytvořené během akce jsou prototypy, koncepty nebo experimentální
+návrhy. Nejde o hotové zdravotnické prostředky, diagnostické nástroje, léčebné postupy ani klinicky ověřené
+produkty.
+Žádný výstup vytvořený během akce nesmí být bez dalšího odborného, právního, technického, regulatorního a
+klinického posouzení použit pro diagnostiku, léčbu, rozhodování o péči o pacienta nebo jiné zdravotnické účely.
+                                      Rakathon 2026 – Pravidla a podmínky účasti
+Účastníci nesmí do svých řešení vkládat reálná osobní data pacientů, zdravotnickou dokumentaci, citlivé údaje
+nebo jiné neveřejné informace, pokud k tomu nemají výslovné písemné oprávnění a pokud nejsou splněny
+všechny zákonné podmínky.
+Pokud jsou účastníkům poskytnuta data, jsou povinni je používat pouze v rozsahu a za účelem stanoveným
+pořadatelem nebo poskytovatelem dat. Po skončení akce jsou povinni postupovat podle pokynů pořadatele
+nebo poskytovatele dat, zejména data smazat, vrátit nebo dále nešířit.
+
+5. Duševní vlastnictví a licence k výstupům
+Účastníci zůstávají autory, původci nebo oprávněnými držiteli práv k výstupům, které během akce vytvoří, pokud
+jim tato práva náleží podle právních předpisů nebo podle dohod uvnitř týmu.
+Odevzdáním výstupu, prezentací výstupu nebo jiným zpřístupněním výstupu v rámci Rakathonu poskytuje každý
+účastník pořadateli, partnerům akce, odborným garantům výzev, porotcům, mentorům a dalším osobám
+zapojeným do organizace, vyhodnocení nebo navazujícího rozvoje akce nevýhradní, bezúplatnou, celosvětovou,
+časově, územně, množstevně a technologicky neomezenou licenci k užití výstupu nebo jeho části, a to v
+rozsahu práv, která lze podle právních předpisů poskytnout.
+Tato licence zahrnuje zejména právo výstup:
+   užít, testovat, hodnotit, analyzovat a dále rozvíjet,
+   rozmnožovat, ukládat, archivovat, zálohovat a zařazovat do interních nebo veřejných materiálů,
+   upravovat, spojovat s jinými řešeními, rozšiřovat a vytvářet odvozená řešení,
+   veřejně prezentovat, publikovat, zobrazovat, sdělovat veřejnosti a komunikovat vůči médiím, odborné
+    veřejnosti, partnerům, investorům, institucím a dalším osobám,
+   využít pro interní, výzkumné, vzdělávací, grantové, marketingové, provozní i komerční účely,
+   implementovat, využít nebo se jím inspirovat při vývoji vlastních produktů, služeb, procesů, výzkumných
+    projektů nebo obchodních aktivit.
+Licence se poskytuje bez nároku účastníka na další odměnu nad rámec případné výhry, ceny nebo jiné podpory
+výslovně přiznané pořadatelem.
+Účastník výslovně souhlasí s tím, že pořadatel a partneři akce mohou poskytnutou licenci nebo její část dále
+postoupit, převést nebo poskytnout jako podlicenci třetím osobám, a to v nejširším rozsahu dovoleném právními
+předpisy.
+Licence je nevýhradní. Účastníci tedy mohou své výstupy nadále sami používat, rozvíjet, publikovat,
+komercializovat nebo licencovat dalším osobám, pokud tím neporušují práva třetích osob, mlčenlivost, podmínky
+poskytovatelů dat nebo jiná omezení.
+Účastník prohlašuje, že je oprávněn výše uvedenou licenci poskytnout, a že udělením licence neporušuje práva
+třetích osob, svého zaměstnavatele, školy, klienta nebo jiné instituce.
+Pořadatel ani partneři nejsou povinni výstupy využít, dále rozvíjet, financovat ani uvést do praxe.
+
+6. Práva třetích osob, open source a AI nástroje
+Účastník odpovídá za to, že jeho výstup neporušuje práva třetích osob, zejména autorská práva, práva k
+softwaru, databázím, ochranným známkám, obchodní tajemství, práva k datům, práva zaměstnavatele,
+univerzity nebo klienta.
+Pokud účastník použije open-source software, knihovny, dataset, API, model umělé inteligence nebo jiné externí
+materiály, je povinen dodržet jejich licenční podmínky a na vyžádání pořadatele uvést, jaké komponenty byly
+použity.
+Účastník bere na vědomí, že použití nástrojů generativní AI může být omezeno jejich vlastními podmínkami a
+může mít dopad na autorství, licenci, důvěrnost a další využití výstupu. Účastník je povinen nepoužívat AI
+nástroje způsobem, který by vedl k porušení práv třetích osob nebo k neoprávněnému zpracování osobních
+údajů.
+
+
+                                       Rakathon 2026 – Pravidla a podmínky účasti
+Pořadatel může tým vyzvat k doplnění informací o použitých datech, modelech, knihovnách, API nebo jiných
+zdrojích.
+
+7. Veřejnost výstupů a důvěrnost
+Rakathon je akce zaměřená na otevřenou spolupráci, sdílení nápadů a prezentaci řešení. Účastníci berou na
+vědomí, že části jejich výstupů mohou být prezentovány před porotou, partnery, ostatními účastníky, médii nebo
+veřejností.
+Účastníci by neměli během akce zveřejňovat informace, které považují za obchodní tajemství, patentovatelný
+vynález, neveřejné know-how nebo jinou citlivou informaci, pokud předem nezajistili odpovídající právní
+ochranu.
+Pořadatel negarantuje mlčenlivost ostatních účastníků, partnerů, mentorů, porotců ani veřejnosti, pokud není
+uzavřena samostatná písemná dohoda o mlčenlivosti.
+Účastníci jsou povinni zachovávat mlčenlivost o neveřejných informacích, které jim budou jako důvěrné výslovně
+označeny pořadatelem, partnerem, nemocnicí, univerzitou nebo jiným poskytovatelem.
+
+8. Hodnocení a ceny
+Výstupy mohou být hodnoceny odbornou porotou podle kritérií stanovených pořadatelem. Kritéria mohou
+zahrnovat zejména relevanci vůči výzvě, inovativnost, technickou proveditelnost, dopad na zdravotnictví, kvalitu
+prototypu, práci s daty, uživatelskou přívětivost, implementační potenciál a kvalitu prezentace.
+Rozhodnutí poroty je konečné a není na něj právní nárok. Pořadatel si vyhrazuje právo cenu neudělit, změnit její
+formu nebo vyloučit tým z hodnocení, pokud poruší pravidla akce.
+Výhry, odměny nebo jiné benefity mohou podléhat zdanění nebo jiným zákonným povinnostem. Účastníci
+odpovídají za splnění svých daňových a právních povinností souvisejících s převzetím ceny.
+
+9. Chování účastníků a bezpečnost
+Účastníci jsou povinni chovat se profesionálně, bezpečně a ohleduplně k ostatním účastníkům, mentorům,
+porotcům, partnerům, organizátorům i zaměstnancům hostitelských institucí.
+Není dovoleno zejména obtěžování, diskriminace, vyhrožování, šikana, nevhodné sexuální chování, úmyslné
+poškozování majetku, neoprávněný přístup do systémů, šíření škodlivého kódu, manipulace s daty, podvádění
+nebo jiné jednání poškozující průběh akce.
+Účastníci jsou povinni dodržovat provozní, bezpečnostní a vstupní pravidla míst konání. Pořadatel může
+vyžadovat identifikaci účastníka, dodržení pokynů organizátorů nebo opuštění prostor, pokud je to nezbytné pro
+bezpečný průběh akce.
+Pořadatel může účastníka kdykoliv vyloučit z akce, pokud poruší tato pravidla, narušuje průběh akce nebo
+ohrožuje bezpečnost, reputaci či práva jiných osob.
+
+10. Fotografie, video a mediální výstupy
+Účastník bere na vědomí, že během Rakathonu mohou být pořizovány fotografie, audiozáznamy a
+videozáznamy zachycující průběh akce, atmosféru, práci týmů, prezentace, rozhovory, vyhlášení vítězů a další
+související aktivity.
+Registrací a účastí na akci účastník uděluje pořadateli svolení se zachycením a použitím své podoby, hlasu,
+jména, příjmení, týmu, role, projektu a veřejných výroků učiněných během akce, a to pro účely dokumentace,
+informování o průběhu akce, propagace Rakathonu, pořadatele, partnerů akce a navazujících projektů.
+Toto svolení zahrnuje použití zejména na webových stránkách, sociálních sítích, v tiskových zprávách,
+newsletterech, prezentacích, výročních a závěrečných zprávách, grantových a partnerských materiálech,
+interních dokumentech, tiskových materiálech a médiích.
+
+                                      Rakathon 2026 – Pravidla a podmínky účasti
+Svolení se poskytuje bezúplatně, celosvětově a na dobu neurčitou. Účastník bere na vědomí, že již zveřejněné
+materiály nemusí být možné zcela odstranit, zejména pokud byly převzaty třetími osobami, médii nebo
+sociálními sítěmi.
+Pokud si účastník nepřeje být hlavním motivem detailních fotografií, individuálních portrétů, rozhovorů nebo
+videí, je povinen o tom informovat pořadatele předem nebo při registraci na místě. Pořadatel se pokusí takové
+přání přiměřeně zohlednit, pokud to bude organizačně možné.
+
+11. Zpracování osobních údajů
+Správcem osobních údajů je Insane Business Ideas s.r.o., IČO: 24818607, se sídlem Všehrdova 437/15, Malá
+Strana, 118 00 Praha 1. Kontaktní e-mail pro dotazy k osobním údajům je info@ceehacks.com.
+Pořadatel zpracovává osobní údaje účastníků zejména za účelem registrace, výběru účastníků, organizace
+akce, komunikace s účastníky, sestavení týmů, zajištění programu, vyhodnocení výstupů, udělení cen, zajištění
+bezpečnosti, evidence účasti, dokumentace akce a splnění právních povinností.
+Zpracovávané údaje mohou zahrnovat zejména jméno, příjmení, e-mail, telefon, organizaci, školu, pracovní
+pozici, odbornost, město účasti, tým, vybranou výzvu, údaje uvedené v přihlášce, odkazy na profesní profily,
+fotografie, videozáznamy a informace o projektu.
+Právním základem zpracování je zejména plnění smlouvy nebo provedení opatření před jejím uzavřením,
+oprávněný zájem pořadatele na organizaci, bezpečném průběhu a dokumentaci akce, splnění právních
+povinností a v případech výslovně uvedených také souhlas účastníka.
+Osobní údaje mohou být v nezbytném rozsahu zpřístupněny osobám podílejícím se na organizaci akce,
+partnerům, odborným garantům, mentorům, porotcům, poskytovatelům technických nástrojů, registračních a
+komunikačních systémů, účetním, právním poradcům a dalším zpracovatelům nebo příjemcům, pokud je to
+nezbytné pro realizaci akce nebo pokud k tomu účastník udělil souhlas.
+Osobní údaje budou uchovávány po dobu nezbytnou pro výše uvedené účely, zpravidla nejdéle 3 roky od
+skončení akce, pokud právní předpisy, účetní a daňové povinnosti, oprávněné nároky nebo udělený souhlas
+nevyžadují nebo neumožňují delší uchování. Účetní a daňové doklady mohou být uchovávány po dobu
+stanovenou právními předpisy.
+Účastník má práva podle GDPR, zejména právo na přístup k osobním údajům, opravu, výmaz, omezení
+zpracování, námitku proti zpracování, přenositelnost údajů a právo odvolat udělený souhlas. Odvolání souhlasu
+nemá vliv na zákonnost zpracování provedeného před jeho odvoláním.
+Účastník má právo obrátit se se stížností na Úřad pro ochranu osobních údajů.
+
+12. Předání kontaktů partnerům a následné kontaktování
+Účastník může při registraci udělit samostatný souhlas s tím, aby pořadatel předal jeho kontaktní údaje
+partnerům Rakathonu za účelem následného kontaktování ohledně spolupráce, mentoringu, výzkumu, stáží,
+pracovních příležitostí, navazujícího vývoje projektu, nabídky služeb nebo dalších relevantních aktivit
+souvisejících s tématy Rakathonu.
+Rozsah předávaných údajů může zahrnovat jméno, příjmení, e-mail, telefon, organizaci nebo školu, roli, město
+účasti, tým, vybranou výzvu, název projektu a odkazy na profesní profily, pokud je účastník uvedl.
+Souhlas s předáním kontaktů partnerům je dobrovolný a účastník jej může kdykoliv odvolat. Neudělení nebo
+odvolání tohoto souhlasu nemá vliv na možnost účastnit se Rakathonu.
+Pokud má mít následná komunikace povahu obchodního sdělení, bude probíhat pouze v souladu s příslušnými
+právními předpisy, zejména s pravidly pro elektronická obchodní sdělení.
+Aktuální seznam partnerů nebo kategorií partnerů bude dostupný na webu akce nebo v registračním formuláři.
+
+
+
+
+                                      Rakathon 2026 – Pravidla a podmínky účasti
+13. Newsletter a informace o dalších akcích
+Účastník může při registraci udělit samostatný souhlas se zasíláním informací o dalších akcích pořadatele,
+zejména hackathonech, workshopech, konferencích, vzdělávacích programech a inovačních aktivitách.
+Souhlas se zasíláním newsletteru je dobrovolný a lze jej kdykoliv odvolat, například prostřednictvím
+odhlašovacího odkazu v e-mailu nebo zasláním žádosti na info@ceehacks.com.
+
+14. Odpovědnost
+Účastník se účastní akce na vlastní odpovědnost. Pořadatel neodpovídá za ztrátu, poškození nebo odcizení
+osobních věcí účastníků, pokud škoda nebyla způsobena porušením povinností pořadatele.
+Pořadatel neodpovídá za funkčnost, použitelnost, právní nezávadnost, regulatorní způsobilost nebo komerční
+úspěch výstupů vytvořených během akce.
+Účastník odpovídá za škodu, kterou způsobí pořadateli, partnerům, hostitelským institucím nebo třetím osobám
+porušením těchto pravidel, právních předpisů nebo práv třetích osob.
+
+15. Změny programu a pravidel
+Pořadatel si vyhrazuje právo změnit harmonogram, místo konání, formát akce, složení poroty, partnery, výzvy,
+ceny, technické nástroje, kapacitu nebo jiná organizační pravidla, pokud je to nezbytné nebo vhodné z
+organizačních, bezpečnostních, technických, právních nebo jiných důvodů.
+O podstatných změnách bude pořadatel účastníky informovat přiměřeným způsobem, například e-mailem, na
+webu akce nebo prostřednictvím komunikační platformy akce.
+
+
+
+
+                                      Rakathon 2026 – Pravidla a podmínky účasti
+

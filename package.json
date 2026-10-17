@@ -1,0 +1,46 @@
+{
+  "name": "prostapaper",
+  "private": true,
+  "description": "ProstaPaper — Rakathon 2026 monorepo (prostate pathology report → structured record → REDCap)",
+  "type": "module",
+  "packageManager": "pnpm@12.8.1",
+  "engines": {
+    "node": "22.23.3"
+  },
+  "scripts": {
+    "build": "turbo run build",
+    "check": "turbo boundaries && turbo run codegen test typecheck lint lint:root typecheck:root format:check knip",
+    "check:boundaries": "turbo boundaries",
+    "codegen": "turbo run codegen",
+    "db:down": "turbo run db:down --filter=@prostapaper/db",
+    "db:generate": "turbo run db:generate --filter=@prostapaper/db",
+    "db:seed": "turbo run db:seed --filter=@prostapaper/db",
+    "db:up": "turbo run db:up --filter=@prostapaper/db",
+    "dev": "turbo run dev",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "knip": "knip --reporter ${KNIP_REPORTER:-symbols}",
+    "lint": "turbo run lint",
+    "lint:root": "eslint eslint.config.ts lint-staged.config.ts --max-warnings 0",
+    "prepare": "husky",
+    "qa:extraction": "pnpm --filter @prostapaper/document-ingest qa",
+    "qa:prepare": "pnpm --filter @prostapaper/document-ingest qa:prepare",
+    "qa:score": "pnpm --filter @prostapaper/document-ingest qa:score",
+    "qa:test": "pnpm --filter @prostapaper/document-ingest qa:test",
+    "typecheck": "turbo run typecheck",
+    "typecheck:root": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@prostapaper/config": "workspace:*",
+    "@types/node": "catalog:",
+    "eslint": "catalog:",
+    "husky": "~9.1.7",
+    "jiti": "~2.7.0",
+    "knip": "~6.39.0",
+    "lint-staged": "~17.6.0",
+    "prettier": "catalog:",
+    "turbo": "~2.11.7",
+    "typescript": "catalog:"
+  },
+  "prettier": "@prostapaper/config/prettier"
+}

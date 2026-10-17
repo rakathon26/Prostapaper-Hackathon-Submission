@@ -1,0 +1,10 @@
+{
+  "extends": "@prostapaper/config/tsconfig/node",
+  "include": [
+    "eslint.config.ts",
+    "lint-staged.config.ts"
+  ],
+  "compilerOptions": {
+    "allowJs": true
+  }
+}
